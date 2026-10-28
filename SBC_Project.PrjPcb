@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VTQUMWQJ
 
 [Document14]
-DocumentPath=PMIC.SchDoc
+DocumentPath=DC_Reg_PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
