@@ -23,7 +23,7 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=1
+AutoSheetNumbering=0
 AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
@@ -50,7 +50,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=SBC_SCH.SchDoc
+DocumentPath=01_SBC_SCH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SHTHMCWL
 
 [Document5]
-DocumentPath=Audio_CODEC.SchDoc
+DocumentPath=11_Audio_CODEC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PHIAKQJO
 
 [Document6]
-DocumentPath=Audio_CODEC.Harness
+DocumentPath=11_Audio_CODEC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -152,7 +152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document7]
-DocumentPath=Audio_Connector.SchDoc
+DocumentPath=12_Audio_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -169,7 +169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KTDAARBP
 
 [Document8]
-DocumentPath=Audio_Connector.Harness
+DocumentPath=12_Audio_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -186,7 +186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=FTDI_USB.SchDoc
+DocumentPath=09_FTDI_USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -220,7 +220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document11]
-DocumentPath=FTDI_USB.Harness
+DocumentPath=09_FTDI_USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -237,7 +237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document12]
-DocumentPath=ETH_PHY.SchDoc
+DocumentPath=15_ETH_PHY.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -254,7 +254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FFYRHXTK
 
 [Document13]
-DocumentPath=ETH_Magjack.SchDoc
+DocumentPath=16_ETH_Magjack.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VTQUMWQJ
 
 [Document14]
-DocumentPath=DC_Reg_PMIC.SchDoc
+DocumentPath=14_DC_Reg_PMIC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SXZFGAPZ
 
 [Document15]
-DocumentPath=WIFI_BLE_Module.SchDoc
+DocumentPath=21_WIFI_BLE_Module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -305,7 +305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ROYCXGJI
 
 [Document16]
-DocumentPath=DRAM.SchDoc
+DocumentPath=06_DRAM.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -322,7 +322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZLEBKGND
 
 [Document17]
-DocumentPath=eMMC_Flash.SchDoc
+DocumentPath=13_eMMC_Flash.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -339,7 +339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XBCBNQPS
 
 [Document18]
-DocumentPath=eMMC_Flash.Harness
+DocumentPath=13_eMMC_Flash.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,7 +356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=Voltage_Translator.SchDoc
+DocumentPath=08_Voltage_Translator.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -373,7 +373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ANXZQHUY
 
 [Document20]
-DocumentPath=MicroSD_Connector.SchDoc
+DocumentPath=20_MicroSD_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -390,7 +390,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KTPCQXBZ
 
 [Document21]
-DocumentPath=SoC_Power.SchDoc
+DocumentPath=03_SoC_Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -407,7 +407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KDSTUYRS
 
 [Document22]
-DocumentPath=WIFI_BLE_Module.Harness
+DocumentPath=21_WIFI_BLE_Module.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -424,7 +424,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=Clock.SchDoc
+DocumentPath=07_Clock.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -441,7 +441,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KGVWYCIZ
 
 [Document24]
-DocumentPath=ETH_PHY.Harness
+DocumentPath=15_ETH_PHY.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -458,7 +458,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=ETH_Magjack.Harness
+DocumentPath=16_ETH_Magjack.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -475,7 +475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=DRAM.Harness
+DocumentPath=06_DRAM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -492,7 +492,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=Voltage_Translator.Harness
+DocumentPath=08_Voltage_Translator.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -509,7 +509,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=SoC_DRAM_DDR4.SchDoc
+DocumentPath=02_SoC_DRAM_DDR4.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -526,7 +526,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TAFVZKPB
 
 [Document29]
-DocumentPath=SoC_DRAM_DDR4.Harness
+DocumentPath=02_SoC_DRAM_DDR4.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -543,7 +543,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
-DocumentPath=MicroSD_Connector.Harness
+DocumentPath=20_MicroSD_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -560,7 +560,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=SoC_Interfaces.SchDoc
+DocumentPath=05_SoC_Interfaces.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -577,7 +577,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ANNEKFIV
 
 [Document32]
-DocumentPath=SoC_Interfaces.Harness
+DocumentPath=05_SoC_Interfaces.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -594,7 +594,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document33]
-DocumentPath=HDMI_TX.SchDoc
+DocumentPath=17_HDMI_TX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -611,7 +611,7 @@ GenerateClassCluster=0
 DocumentUniqueId=LIDBWKCI
 
 [Document34]
-DocumentPath=HDMI_Connector.SchDoc
+DocumentPath=18_HDMI_Connector.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -628,7 +628,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZSAKVOAS
 
 [Document35]
-DocumentPath=HDMI_TX.Harness
+DocumentPath=17_HDMI_TX.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -645,7 +645,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document36]
-DocumentPath=HDMI_Connector.Harness
+DocumentPath=18_HDMI_Connector.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -662,7 +662,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=CSI_OLDI.SchDoc
+DocumentPath=19_CSI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -679,7 +679,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KAGCSFOZ
 
 [Document38]
-DocumentPath=CSI_OLDI.Harness
+DocumentPath=19_CSI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -696,7 +696,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document39]
-DocumentPath=USB_Connectors.SchDoc
+DocumentPath=10_USB_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -713,7 +713,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ZMCAXXRZ
 
 [Document40]
-DocumentPath=USB_Connectors.Harness
+DocumentPath=10_USB_Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -730,7 +730,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document41]
-DocumentPath=SoC_CFG_GPIOs.SchDoc
+DocumentPath=04_SoC_CFG_GPIOs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
